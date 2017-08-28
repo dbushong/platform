@@ -816,6 +816,22 @@
     "translation": "open"
   },
   {
+    "id": "api.command_quote.desc",
+    "translation": "Display text as a block quote"
+  },
+  {
+    "id": "api.command_quote.hint",
+    "translation": "[text]"
+  },
+  {
+    "id": "api.command_quote.message.app_error",
+    "translation": "A message must be provided with the /quote command."
+  },
+  {
+    "id": "api.command_quote.name",
+    "translation": "quote"
+  },
+  {
     "id": "api.command_search.desc",
     "translation": "Search text in messages"
   },
